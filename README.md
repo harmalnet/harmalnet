@@ -42,7 +42,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hardeymolar&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardeymolar&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=splashray&theme=dark)](https://git.io/streak-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hardeymolar&langs_count=5&theme=tokyonight)]()
 
